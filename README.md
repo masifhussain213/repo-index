@@ -6,20 +6,20 @@
 ## Mini Projects
 
 - [spring-boot-reactjs-todolist](https://github.com/muahu/spring-boot-reactjs-todolist)⭐: spring-boot, react
-- [BookStoreApp-Distributed-Application](https://github.com/muahu/BookStoreApp-Distributed-Application)⭐: spring-boot, spring-cloud, spring-cloud-stream, spring-cloud-config, spring-cloud-gateway, rabbitmq
-- [ecommerce-springboot-react](https://github.com/muahu/ecommerce-springboot-react)⭐: spring-boot, PostgreSQL, spring-cloud, spring-cloud-stream, spring-cloud-config, spring-cloud-gateway, rabbitmq
+- [BookStoreApp-Distributed-Application](https://github.com/muahu/BookStoreApp-Distributed-Application)⭐: spring-boot, spring-cloud, spring-cloud-gateway
+- [ecommerce-springboot-react](https://github.com/muahu/ecommerce-springboot-react)⭐: spring-boot, PostgreSQL, spring-cloud, spring-cloud-config, spring-cloud-gateway
 - [spring-boot-react-oauth2-social-login-demo](https://github.com/muahu/spring-boot-react-oauth2-social-login-demo)⭐: spring-boot, OAuth2
 - [spring-boot-user-registration-and-Login](https://github.com/muahu/spring-boot-user-registration-and-Login)⭐: spring-boot, Spring Security, MySQL
 
 
 ## Full Stack
+- [ReactJS-Spring-Boot-Full-Stack-App](https://github.com/muahu/ReactJS-Spring-Boot-Full-Stack-App)⭐: spring-boot 3, MySql, ReactJS,  Java 17
+- [okta-spring-boot-react-crud-example](https://github.com/muahu/okta-spring-boot-react-crud-example)⭐: spring-boot 3, ReactJS, H2, Okta,  Java 17
+- [spring-boot-full-stack-professional](https://github.com/muahu/spring-boot-full-stack-professional)⭐: spring-boot 3, MySql, ReactJS,  Java 17
+- [springboot3-vue3-mongodb-crud](https://github.com/muahu/springboot3-vue3-mongodb-crud)⭐: spring-boot 3, MongoDB, Vue JS 3,  Java 17
+- [springboot3-postgresql-vue3-crud](https://github.com/muahu/springboot3-postgresql-vue3-crud)⭐: spring-boot 3, postgresql, Vue JS 3,  Java 17
+- [springboot3-mongodb-angular14-crud](https://github.com/muahu/springboot3-mongodb-angular14-crud)⭐: spring-boot 3, MongoDB, angular 14,  Java 17
 
-- [springboot3-vue3-mongodb-crud](https://github.com/muahu/springboot3-vue3-mongodb-crud): spring-boot, spring-cloud, spring-cloud-stream, spring-cloud-config, spring-cloud-gateway, kotlin, rabbitmq
-- [springboot3-mongodb-angular14-crud](https://github.com/muahu/springboot3-mongodb-angular14-crud): spring-boot, spring-webflux, kotlin, r2dbc, postgres, spring-data-r2dbc
-- [springboot3-postgresql-vue3-crud](https://github.com/muahu/springboot3-postgresql-vue3-crud)⭐: ktor, kotlin, consul, micrometer, ktor-test
-- [ReactJS-Spring-Boot-Full-Stack-App](https://github.com/muahu/ReactJS-Spring-Boot-Full-Stack-App)⭐: kotlin, kotlin-coroutines
-- [okta-spring-boot-react-crud-example](https://github.com/muahu/okta-spring-boot-react-crud-example)⭐: kotlin, reactor
-- [spring-boot-full-stack-professional](https://github.com/muahu/spring-boot-full-stack-professional)⭐: kotlin, reactor
 
 ## Spring Boot
 
