@@ -5,14 +5,17 @@
 
 ## Mini Projects
 
+- [talent-acquisition-management-system](https://github.com/muahu/talent-acquisition-management-system)⭐: spring-boot 3, microservices, reactjs 18, java 17
 - [spring-boot-reactjs-todolist](https://github.com/muahu/spring-boot-reactjs-todolist)⭐: spring-boot, react
 - [BookStoreApp-Distributed-Application](https://github.com/muahu/BookStoreApp-Distributed-Application)⭐: spring-boot, spring-cloud, spring-cloud-gateway
 - [ecommerce-springboot-react](https://github.com/muahu/ecommerce-springboot-react)⭐: spring-boot, PostgreSQL, spring-cloud, spring-cloud-config, spring-cloud-gateway
 - [spring-boot-react-oauth2-social-login-demo](https://github.com/muahu/spring-boot-react-oauth2-social-login-demo)⭐: spring-boot, OAuth2
 - [spring-boot-user-registration-and-Login](https://github.com/muahu/spring-boot-user-registration-and-Login)⭐: spring-boot, Spring Security, MySQL
+- [exam-portal](https://github.com/muahu/exam-portal)⭐: spring-boot, angular, mysql
 
 
 ## Full Stack
+
 - [ReactJS-Spring-Boot-Full-Stack-App](https://github.com/muahu/ReactJS-Spring-Boot-Full-Stack-App)⭐: spring-boot 3, MySql, ReactJS,  Java 17
 - [okta-spring-boot-react-crud-example](https://github.com/muahu/okta-spring-boot-react-crud-example)⭐: spring-boot 3, ReactJS, H2, Okta,  Java 17
 - [spring-boot-full-stack-professional](https://github.com/muahu/spring-boot-full-stack-professional)⭐: spring-boot 3, MySql, ReactJS,  Java 17
