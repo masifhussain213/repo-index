@@ -6,6 +6,7 @@
 ## Mini Projects
 
 - [talent-acquisition-management-system](https://github.com/muahu/talent-acquisition-management-system)⭐: spring-boot 3, microservices, reactjs 18, java 17
+- [okta-spring-boot-vue-crud-example](https://github.com/muahu/okta-spring-boot-vue-crud-example)⭐: spring-boot, Vuejs, Okta
 - [spring-boot-reactjs-todolist](https://github.com/muahu/spring-boot-reactjs-todolist)⭐: spring-boot, react
 - [BookStoreApp-Distributed-Application](https://github.com/muahu/BookStoreApp-Distributed-Application)⭐: spring-boot, spring-cloud, spring-cloud-gateway
 - [ecommerce-springboot-react](https://github.com/muahu/ecommerce-springboot-react)⭐: spring-boot, PostgreSQL, spring-cloud, spring-cloud-config, spring-cloud-gateway
