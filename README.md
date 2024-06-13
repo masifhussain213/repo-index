@@ -82,6 +82,9 @@
 - [sample-spring-cloud-pcf](https://github.com/muahu/sample-spring-cloud-pcf)⚠️: spring-boot, spring-cloud, ribbon, eureka, feign, pcf
 - [sample-spring-cloud-azure](https://github.com/muahu/sample-spring-cloud-azure)️: spring-boot, spring-cloud, spring-cloud-azure, azure-spring-apps, azure-pipelines, azure-function, cosmosdb
 
+
+<!--
+
 ## Quarkus
 
 - [sample-quarkus-microservice](https://github.com/muahu/sample-quarkus-microservice)⭐: quarkus, postgres, openapi
@@ -101,7 +104,7 @@
 - [sample-micronaut-jpa](https://github.com/muahu/sample-micronaut-jpa): micronaut, micronaut-data-jpa, postgres, testcontainers
 - [sample-micronaut-security](https://github.com/muahu/sample-micronaut-security): micronaut, micronaut-security, oauth2, jwt
 - [sample-kotlin-micronaut-microservices](https://github.com/muahu/sample-kotlin-micronaut-microservices): micronaut, micronaut-data-jpa, kotlin, postgres, spring-cloud-config, eureka
-
+-->
 ## Kubernetes
 
 - [openshift-cluster-config](https://github.com/muahu/openshift-cluster-config)⭐: openshift, argocd, helm, acm, openshift-operators
@@ -133,3 +136,7 @@
 - [sample-vertx-kafka-messaging](https://github.com/muahu/sample-vertx-kafka-messaging): vertx, kafka
 - [sample-vertx-kubernetes](https://github.com/muahu/sample-vertx-kubernetes): vertx, mongodb, kubernetes
 - [sample-java-concurrency](https://github.com/muahu/sample-java-concurrency)⭐: java-concurrency, virtual-threads, http-server
+
+## Other Languages
+- [sample-react-microfrontend](https://github.com/muahu/sample-react-microfrontend): react, react-redux, redux-saga, axios
+- [sample-gatling-load-tests](https://github.com/muahu/sample-gatling-load-tests): scala, gatling, postgres, spring-web, spring-data-jpa
